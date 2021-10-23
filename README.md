@@ -1,5 +1,4 @@
-# zax_test
-Teste de Lógica de Programação
+# Teste de Lógica de Programação
 
 ## Descrição
 Linguagem python/javascript ou outra de sua preferencia!
